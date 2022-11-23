@@ -1,0 +1,3 @@
+# ANOTAÇÕES
+
+Arquivo para anotações
